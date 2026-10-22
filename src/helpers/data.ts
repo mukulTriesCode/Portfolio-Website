@@ -74,7 +74,7 @@ export const currentWorkData = [
   {
     // title: "Links",
     links: [
-      { name: "Github", url: "#", icon: "./logos/maximize.png" },
+      { name: "Github", url: "https://www.github.com/mukulTriesCode", icon: "./logos/maximize.png" },
       { name: "LinkedIn", url: "#", icon: "./logos/maximize.png" },
       { name: "Twitter", url: "#", icon: "./logos/maximize.png" },
     ],
@@ -92,11 +92,7 @@ export const workData = {
     {
       title: "Co:Create",
       description:
-        "Built dynamic website components using Next.js, designed backend schemas, implemented G{
-  title: "Acadian Supply",
-  description:
-    "Developed the complete website from frontend to backend, implemented dynamic functionality, integrated APIs, and optimized performance, responsiveness, and overall site efficiency.",
-},SAP animations, and optimized page performance to improve PageSpeed scores and loading efficiency.",
+        "Built dynamic website components using Next.js, designed backend schemas, implemented GSAP animations, and optimized page performance to improve PageSpeed scores and loading efficiency.",
     },
     {
       title: "RWIT Website",
