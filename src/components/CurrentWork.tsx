@@ -15,7 +15,7 @@ const CurrentWork: React.FC<CurrentWorkProps> = ({ currentWorkData }) => {
   }, []);
 
   return (
-    <section className="container my-44 text-light flex relative">
+    <section className="container my-44 text-light flex justify-center relative">
       <div className="flex flex-col gap-9 text-center">
         {currentWorkData.map((item, index) => (
           <div key={index}>
