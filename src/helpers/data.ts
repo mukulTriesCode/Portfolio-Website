@@ -65,12 +65,12 @@ export const currentWorkData = [
   {
     title: "Currently",
     description:
-      "I’m a <span>Frontend</span> Developer at RW Infotech, an Headless CMS expert company.",
+      "I’m a <span>Software</span> Engineer at Hindminds Private Limited.",
   },
-  // {
-  //   title: "Availability",
-  //   description: "I’m currently available to work togather.",
-  // },
+  {
+    title: "Availability",
+    description: "I’m currently available to work togather.",
+  },
   {
     // title: "Links",
     links: [
@@ -85,25 +85,49 @@ export const workData = {
   title: "Selected <u>Work</u>",
   projects: [
     {
-      title: "React Code Editor",
+      title: "Sondermind",
       description:
-        "Code editor is created using React + TS with Redux Toolkit for state management",
+        "Revamped the marketing website design and developed Angular services to enhance user experience and interface consistency.",
     },
     {
-      title: "E-commerce Website",
+      title: "Co:Create",
       description:
-        "E-commerce website built using React, Redux, and Firebase for authentication and database management",
+        "Built dynamic website components using Next.js, designed backend schemas, implemented G{
+  title: "Acadian Supply",
+  description:
+    "Developed the complete website from frontend to backend, implemented dynamic functionality, integrated APIs, and optimized performance, responsiveness, and overall site efficiency.",
+},SAP animations, and optimized page performance to improve PageSpeed scores and loading efficiency.",
     },
     {
-      title: "Portfolio Website",
+      title: "RWIT Website",
       description:
-        "Portfolio website created using React, Redux, and CSS for styling and animations",
+        "Translated design mockups into pixel-perfect, responsive interfaces and developed reusable dynamic components to deliver consistent layouts across devices.",
     },
     {
-      title: "Chatbot Application",
+      title: "Acadian Supply",
       description:
-        "Chatbot application developed using React, Redux, and Dialogflow for conversational AI",
+        "Developed the complete website from frontend to backend, implemented dynamic functionality, integrated APIs, and optimized performance, responsiveness, and overall site efficiency.",
     },
+    // {
+    //   title: "React Code Editor",
+    //   description:
+    //     "Code editor is created using React + TS with Redux Toolkit for state management",
+    // },
+    // {
+    //   title: "E-commerce Website",
+    //   description:
+    //     "E-commerce website built using React, Redux, and Firebase for authentication and database management",
+    // },
+    // {
+    //   title: "Portfolio Website",
+    //   description:
+    //     "Portfolio website created using React, Redux, and CSS for styling and animations",
+    // },
+    // {
+    //   title: "Chatbot Application",
+    //   description:
+    //     "Chatbot application developed using React, Redux, and Dialogflow for conversational AI",
+    // },
   ],
 };
 
@@ -123,14 +147,35 @@ export const skillData = [
           { label: "TypeScript", logo: "" },
           { label: "ReactJS", logo: "" },
           { label: "NextJS", logo: "" },
+          { label: "GatsbyJS", logo: "" },
+          { label: "AngularJS", logo: "" },
+        ],
+      },
+      {
+        label: "State Management Tools",
+        technologies: [
           { label: "Redux", logo: "" },
+          { label: "Zustand", logo: "" },
+          { label: "MobX", logo: "" },
+        ],
+      },
+      {
+        label: "Backend",
+        technologies: [
+          { label: "NodeJS", logo: "" },
+          { label: "ExpressJS", logo: "" },
+          { label: "Prisma", logo: "" },
+          { label: "MongoDB", logo: "" },
+          { label: "PostgreSQL", logo: "" },
         ],
       },
       {
         label: "Headless CMS",
         technologies: [
-          { label: "Prismic", logo: "" },
+          { label: "Strapi", logo: "" },
           { label: "Sanity", logo: "" },
+          { label: "Prismic", logo: "" },
+          { label: "Builder.io", logo: "" },
         ],
       },
       {
