@@ -5,10 +5,10 @@ export const headerData = {
       label: "work",
       url: "/work",
     },
-    {
-      label: "music",
-      url: "/music",
-    },
+    // {
+    //   label: "music",
+    //   url: "/music",
+    // },
   ],
 };
 
